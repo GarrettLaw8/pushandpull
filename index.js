@@ -1,4 +1,4 @@
-helloWorld = () => {
-  console.log("Whats happening world!!!")
+talk= () => {
+  return console.log("Whats happening world!!!")
 }
 helloWorld()
